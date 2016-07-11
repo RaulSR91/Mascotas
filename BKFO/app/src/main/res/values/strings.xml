@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mascotas</string>
+
+    <string name="Nombre">Nombre</string>
+    <string name="Rating">Rating</string>
+    <string name="about">About</string>
+</resources>
